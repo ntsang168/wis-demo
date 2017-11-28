@@ -1,0 +1,39 @@
+{
+  "author": {
+    "name": "Nicholas Tsang",
+    "email": "ntsang@us.ibm.com"
+  },
+  "contributors": [
+    {
+      "name": "Nicholas Tsang",
+      "url": "https://github.com/ntsang168"
+    }
+  ],
+  "dependencies": {
+    "bunyan": "^1.8.12",
+    "bunyan-format": "^0.2.1",
+    "needle": "^2.0.1"
+  },
+  "description": "A demo app.",
+  "engines": {
+    "node": ">=6.10"
+  },
+  "homepage": "https://github.com/ntsang168/wis-demo#readme",
+  "keywords": [
+    "bunyan",
+    "cloudant",
+    "formatted",
+    "json",
+    "log",
+    "logging",
+    "logger"
+  ],
+  "license": "MIT",
+  "main": "logger.js",
+  "name": "wis-demo",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ntsang168/wis-demo.git"
+  },
+  "version": "0.0.1"
+}
